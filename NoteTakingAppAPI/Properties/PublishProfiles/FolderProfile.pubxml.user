@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>F:\NoteTakingAPP\NoteTakingAppAPI\NoteTakingAppAPI\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2023-12-15T15:49:18.5058157Z;True|2023-12-14T18:11:58.0835802-08:00;True|2023-12-14T18:10:12.4091442-08:00;True|2023-12-14T09:51:23.1932391-08:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,14 @@
+F:\NoteTakingAPP\NoteTakingAppAPI\NoteAPPLibrary\bin\Release\net7.0\NoteAPPLibrary.deps.json
+F:\NoteTakingAPP\NoteTakingAppAPI\NoteAPPLibrary\bin\Release\net7.0\NoteAPPLibrary.runtimeconfig.json
+F:\NoteTakingAPP\NoteTakingAppAPI\NoteAPPLibrary\bin\Release\net7.0\NoteAPPLibrary.dll
+F:\NoteTakingAPP\NoteTakingAppAPI\NoteAPPLibrary\bin\Release\net7.0\NoteAPPLibrary.pdb
+F:\NoteTakingAPP\NoteTakingAppAPI\NoteAPPLibrary\obj\Release\net7.0\NoteAPPLibrary.csproj.AssemblyReference.cache
+F:\NoteTakingAPP\NoteTakingAppAPI\NoteAPPLibrary\obj\Release\net7.0\NoteAPPLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\NoteTakingAPP\NoteTakingAppAPI\NoteAPPLibrary\obj\Release\net7.0\NoteAPPLibrary.AssemblyInfoInputs.cache
+F:\NoteTakingAPP\NoteTakingAppAPI\NoteAPPLibrary\obj\Release\net7.0\NoteAPPLibrary.AssemblyInfo.cs
+F:\NoteTakingAPP\NoteTakingAppAPI\NoteAPPLibrary\obj\Release\net7.0\NoteAPPLibrary.csproj.CoreCompileInputs.cache
+F:\NoteTakingAPP\NoteTakingAppAPI\NoteAPPLibrary\obj\Release\net7.0\NoteAPPLibrary.dll
+F:\NoteTakingAPP\NoteTakingAppAPI\NoteAPPLibrary\obj\Release\net7.0\refint\NoteAPPLibrary.dll
+F:\NoteTakingAPP\NoteTakingAppAPI\NoteAPPLibrary\obj\Release\net7.0\NoteAPPLibrary.pdb
+F:\NoteTakingAPP\NoteTakingAppAPI\NoteAPPLibrary\obj\Release\net7.0\NoteAPPLibrary.genruntimeconfig.cache
+F:\NoteTakingAPP\NoteTakingAppAPI\NoteAPPLibrary\obj\Release\net7.0\ref\NoteAPPLibrary.dll

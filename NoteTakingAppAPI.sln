@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoteTakingAppAPI", "NoteTakingAppAPI\NoteTakingAppAPI.csproj", "{B783C91A-A7B0-4157-8758-246DAA760781}"
+	ProjectSection(ProjectDependencies) = postProject
+		{925D0067-A9D8-44E8-8796-245A8C5E1DEB} = {925D0067-A9D8-44E8-8796-245A8C5E1DEB}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoteAPPLibrary", "NoteAPPLibrary\NoteAPPLibrary.csproj", "{925D0067-A9D8-44E8-8796-245A8C5E1DEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B783C91A-A7B0-4157-8758-246DAA760781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B783C91A-A7B0-4157-8758-246DAA760781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B783C91A-A7B0-4157-8758-246DAA760781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B783C91A-A7B0-4157-8758-246DAA760781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{925D0067-A9D8-44E8-8796-245A8C5E1DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925D0067-A9D8-44E8-8796-245A8C5E1DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925D0067-A9D8-44E8-8796-245A8C5E1DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925D0067-A9D8-44E8-8796-245A8C5E1DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A4DE204-74A1-4EA0-819C-54D11CE131B6}
+	EndGlobalSection
+EndGlobal
